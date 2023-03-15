@@ -29,6 +29,7 @@ im Abdolrahman kiany, a fullstack web developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoki7788&layout=compact&theme=dracula)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdoki7788&theme=dracula&background=000000)](https://github.com/abdoki7788)
 
 
 
