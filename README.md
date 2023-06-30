@@ -1,5 +1,5 @@
 ## ✨ who am i ? :
-im Abdolrahman kiany, a fullstack web developer
+im Abdolrahman kiany, a teen junior web developer 😁
 
 ## ⚡ Atcivities:
 
