@@ -1,10 +1,17 @@
-## ✨ who am i ? :
-im Abdolrahman kiany, an eager web developer 😁
+<h1 align="center">Hi 👋, I'm Ibo Kiani</h1>
+<h3 align="center">an eager web developer 😁</h3>
 
-## ⚡ Atcivities:
+- 🔭 I’m currently working on [Planit](https://github.com/abdoki7788/Planit)
 
- - 🖥️ Front-End
- - 🖧 Back-end
+- 🌱 I’m currently learning **Django, PostgreSQL, Docker**
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **abdoki7788@gmail.com**
+
+- 📄 Know about my experiences [https://abdoki7788.github.io](https://abdoki7788.github.io)
+
+- ⚡ Fun fact **I Live in Iran**
 
 
 ## 🤹 My Skills :
@@ -26,23 +33,3 @@ im Abdolrahman kiany, an eager web developer 😁
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoki7788&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoki7788&layout=compact&theme=dracula)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdoki7788&theme=dracula&background=000000)](https://github.com/abdoki7788)
-
-
-
-
-<!--
-**abdoki7788/abdoki7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
